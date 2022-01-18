@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Unish Rajkarnikar</h1>
 <h3>Software engineer specializing in Mobile Application Development using Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubidy947&label=Profile%20views&color=0e75b6&style=flat" alt="ubidy947" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajkarnikar-unish&label=Profile%20views&color=0e75b6&style=flat" alt="Rajkarnikar-unish" /> </p>
 
 - 🌱 I’m currently learning **Django, Firebase**
 
