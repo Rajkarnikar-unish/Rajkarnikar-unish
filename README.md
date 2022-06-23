@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajkarnikar-unish&label=Profile%20views&color=0e75b6&style=flat" alt="Rajkarnikar-unish" /> </p>
 
-- 🌱 I’m currently learning **Django, Firebase**
+- 🌱 I’m currently learning **BLoC, Firebase**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project Related to Flutter**
 
