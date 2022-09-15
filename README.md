@@ -11,5 +11,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&show_icons=true&theme=onedark&locale=en" alt="Rajkarnikar-unish" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajkarnikar-unish)](https://git.io/streak-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkarnikar-unish&theme=dark" alt="Rajkarnikar-unish" /></p>
 
