@@ -10,5 +10,3 @@
 - 📫 How to reach me **ubidy947@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&show_icons=true&theme=onedark&locale=en" alt="Rajkarnikar-unish" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajkarnikar-unish&theme=dark&hide_border=true)](https://git.io/streak-stats)
