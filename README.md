@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Unish Rajkarnikar</h1>
-<h3>Software engineer specializing in Mobile Application Development using Flutter</h3>
+<h3>Mobile Application Developer</h3>
 
-- 🌱 I’m currently learning **BLoC, Firebase**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **Any Open Source Project Related to Flutter**
+- 👯 I’m looking to collaborate on **Any Open Source Project Related to Mobile App**
 
 - 👨‍💻 All of my projects are available at [www.rajkarnikarunish.com.np](www.rajkarnikarunish.com.np)
 
