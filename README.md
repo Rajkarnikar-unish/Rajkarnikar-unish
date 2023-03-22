@@ -9,4 +9,6 @@
 
 - 📫 How to reach me **ubidy947@gmail.com**
 
-<p>&nbsp;<img align="center" src=["https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&show_icons=true&theme=onedark&locale=en" alt="Rajkarnikar-unish" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&show_icons=true&theme=onedark&locale=en" alt="Rajkarnikar-unish" /></p> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish)](https://github.com/rajkarnikar-unish/github-readme-stats)
