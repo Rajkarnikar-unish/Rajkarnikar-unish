@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **ubidy947@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&theme=synthwave)](https://github.com/rajkarnikar-unish/github-readme-stats&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&theme=synthwave)](https://github.com/rajkarnikar-unish/github-readme-stats&theme=synthwave&show_icons=true)
