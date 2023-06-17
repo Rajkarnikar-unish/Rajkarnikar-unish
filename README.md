@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.rajkarnikarunish.com.np](www.rajkarnikarunish.com.np)
 
-- 📫 How to reach me **ubidy947@gmail.com**
+- 📫 How to reach me **unishrajkarnikar.29@gmail.com**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&theme=synthwave)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&theme=synthwave)](https://github.com/rajkarnikar-unish/github-readme-stats&theme=synthwave&show_icons=true) -->
