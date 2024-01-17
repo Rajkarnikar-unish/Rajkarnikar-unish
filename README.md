@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Unish Rajkarnikar</h1>
 <h3>Mobile Application Developer</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I work with Java, Kotlin, Python, MS SQL, MySQL.
 
 - 👯 I’m looking to collaborate on **Any Open Source Project Related to Mobile App**
 
