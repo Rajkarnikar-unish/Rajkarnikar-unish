@@ -9,5 +9,4 @@
 
 - 📫 How to reach me **unishrajkarnikar.29@gmail.com**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&theme=synthwave)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish&theme=synthwave)](https://github.com/rajkarnikar-unish/github-readme-stats&theme=synthwave&show_icons=true) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish)](https://github.com/anuraghazra/github-readme-stats)
