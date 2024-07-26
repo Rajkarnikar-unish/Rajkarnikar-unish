@@ -8,3 +8,5 @@
 - 📫 How to reach me **unishrajkarnikar.29@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkarnikar-unish)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rajkarnikar-unish&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
