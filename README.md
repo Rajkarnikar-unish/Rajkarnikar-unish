@@ -16,7 +16,7 @@ A modern blogging CMS with role-based authentication, social logins, and media m
 
 Manual & OAuth2 login (Google, Facebook) with JWT-based authentication
 
-Role-based access control (ROLE_USER, ROLE_ADMIN, ROLE_MODERATOR)
+Role-based access control
 
 Blog posting with draft, publish, and archive features
 
